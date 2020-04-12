@@ -6,7 +6,7 @@ It is a just simple tutorial or example for making simple RESTful API with Go us
 ## Installation & Run
 ```bash
 # Download this project
-go get github.com/mingrammer/go-todo-rest-api-example
+https://github.com/pedropbazzo/-RESTful-APIgo get github.com/
 ```
 
 Before running API server, you should set the database config with yours or set the your database config with my values on [config.go](https://github.com/mingrammer/go-todo-rest-api-example/blob/master/config/config.go)
